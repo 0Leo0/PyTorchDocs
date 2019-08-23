@@ -15,8 +15,11 @@
 
 # 更新计划
 磐创AI 微信公众号发布后，会同步到 GitHub
+
 更新频率：一周两次
+
 开始时间：下周开始
+
 欢迎关注 磐创AI 打卡学习
 
 ![磐创AI](http://pytorchchina.com/wp-content/uploads/2019/06/WechatIMG14188.jpeg)
