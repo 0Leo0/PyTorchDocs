@@ -13,6 +13,14 @@
 * 如果你想解决自然语言处理问题，可以看NLP 部分。
 * 还有强化学习和生成对抗网络部分内容。
 
+# 更新计划
+磐创AI 微信公众号发布后，会同步到 GitHub
+更新频率：一周两次
+开始时间：下周开始
+欢迎关注 磐创AI 打卡学习
+
+![磐创AI](http://pytorchchina.com/wp-content/uploads/2019/06/WechatIMG14188.jpeg)
+
 作者：[磐创AI](http://www.panchuangai.com/) [PyTorch](http://pytorch123.com/) 翻译小组: News & PanChuang
 
 原文：[https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
@@ -29,35 +37,37 @@
 ### 4.[PyTorch 图像分类器](https://github.com/fendouai/PyTorchDocs/blob/master/SecondSection/training_a_classifier.md)
 ### 5.[PyTorch 数据并行处理](https://github.com/fendouai/PyTorchDocs/blob/master/SecondSection/optional_data_parallelism.md)
 
-## 第三章：PyTorch之入门强化
-### 1.[数据加载和处理](https://github.com/fendouai/PyTorchDocs/blob/master/ThirdSection/DataLoding.md)
-### 2.[PyTorch小试牛刀](https://github.com/fendouai/PyTorchDocs/blob/master/ThirdSection/LearningPyTorch.md)
-### 3.[迁移学习](https://github.com/fendouai/PyTorchDocs/blob/master/ThirdSection/TransferLearning.md)
-### 4.[混合前端的seq2seq模型部署](https://github.com/fendouai/PyTorchDocs/blob/master/ThirdSection/DeployingSeq2SeqModelwithHybridFrontend.MD)
-### 5.[保存和加载模型](https://github.com/fendouai/PyTorchDocs/blob/master/ThirdSection/SaveModel.md)
+第三章：PyTorch之入门强化
+### 1.数据加载和处理
+### 2.PyTorch小试牛刀
+### 3.迁移学习
+### 4.混合前端的seq2seq模型部署
+### 5.保存和加载模型
 
-## 第四章：PyTorch之图像篇
-### 1.[微调基于torchvision 0.3的目标检测模型](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/ObjectDetectionFinetuning.md)
-### 2.[微调TorchVision模型](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/FinetuningTorchVisionModel.md)
-### 3.[空间变换器网络](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/SpatialTranNet.md)
-### 4.[使用PyTorch进行Neural-Transfer](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/NeuralTransfer.md)
-### 5.[生成对抗示例](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/AdversarialExampleGene.md)
-### 6.[使用ONNX将模型转移至Caffe2和移动端](https://github.com/fendouai/PyTorchDocs/blob/master/fourSection/ONNX.md)
+第四章：PyTorch之图像篇
+### 1.微调基于torchvision 0.3的目标检测模型
+### 2.微调TorchVision模型
+### 3.空间变换器网络
+### 4.使用PyTorch进行Neural-Transfer
+### 5.生成对抗示例
+### 6.使用ONNX将模型转移至Caffe2和移动端
 
-## 第五章：PyTorch之文本篇
-### 1.[聊天机器人教程](https://github.com/fendouai/PyTorchDocs/blob/master/FifthSection/Chatbot.md)
-### 2.[使用字符级RNN生成名字](https://github.com/fendouai/PyTorchDocs/blob/master/FifthSection/Char%20RNN%20Generation.MD)
-### 3.[使用字符级RNN进行名字分类](https://github.com/fendouai/PyTorchDocs/blob/master/FifthSection/Char%20RNN%20Classification.md)
-### 4.[在深度学习和NLP中使用Pytorch](https://github.com/fendouai/PyTorchDocs/blob/master/FifthSection/DeepLearning%20NLP.md)
-### 5.[使用Sequence2Sequence网络和注意力进行翻译](https://github.com/fendouai/PyTorchDocs/blob/master/FifthSection/Translation_S2S%20Network.md)
+第五章：PyTorch之文本篇
+### 1.聊天机器人教程
+### 2.使用字符级RNN生成名字
+### 3.使用字符级RNN进行名字分类
+### 4.在深度学习和NLP中使用Pytorch
+### 5.使用Sequence2Sequence网络和注意力进行翻译
 
-## 第六章：PyTorch之生成对抗网络
+第六章：PyTorch之生成对抗网络
 
-### 1.[生成对抗网络（Generative Adversarial Networks）](https://github.com/fendouai/PyTorchDocs/blob/master/SixthSection/Dcgan.md)
+### 1.生成对抗网络（Generative Adversarial Networks）
 
-## 第七章：PyTorch之强化学习
+第七章：PyTorch之强化学习
 
-### 1.[强化学习（DQN）](https://github.com/fendouai/PyTorchDocs/blob/master/SeventhSection/ReinforcementLearning.md)
+### 1.强化学习（DQN）
+
+
 
 # 教程推荐
 
